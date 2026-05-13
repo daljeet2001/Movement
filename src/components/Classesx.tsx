@@ -18,7 +18,7 @@ export default function Classesx(){
                     
                     <div className="w-full md:w-[50%] border-box flex flex-col border-r border-[#575757]">
 
-                        <div className="h-[331px] w-full bg-[url('d8.jpeg')] bg-cover bg-center">
+                        <div className="h-[331px] w-full bg-[url('/d8.jpeg')] bg-cover bg-center">
 
                             <div className="flex items-center justify-start p-[30px]">
                                 <div className="text-[62px] md:text-[96px] lg:text-[126px] leading-[0.9] [font-family:var(--font-expanded)] text-white">C1</div>
@@ -57,7 +57,7 @@ export default function Classesx(){
 
                      <div className="w-full md:w-[50%] border-box flex flex-col border-r border-[#575757]">
 
-                        <div className="h-[331px] w-full bg-[url('d10.webp')] bg-cover bg-center">
+                        <div className="h-[331px] w-full bg-[url('/d10.webp')] bg-cover bg-center">
 
                             <div className="flex items-center justify-start p-[30px]">
                                 <div className="text-[62px] md:text-[96px] lg:text-[126px] leading-[0.9] [font-family:var(--font-expanded)] text-white">C2</div>
@@ -96,7 +96,7 @@ export default function Classesx(){
 
                      <div className="w-full md:w-[50%] border-box flex flex-col border-r border-[#575757]">
 
-                        <div className="h-[331px] w-full bg-[url('d11.webp')] bg-cover bg-center">
+                        <div className="h-[331px] w-full bg-[url('/d11.webp')] bg-cover bg-center">
 
                             <div className="flex items-center justify-start p-[30px]">
                                 <div className="text-[62px] md:text-[96px] lg:text-[126px]  leading-[0.9] [font-family:var(--font-expanded)] text-white">C4</div>
@@ -135,7 +135,7 @@ export default function Classesx(){
 
                      <div className="w-full md:w-[50%] border-box flex flex-col border-r border-[#575757]">
 
-                        <div className="h-[331px] w-full bg-[url('d29.jpeg')] bg-cover bg-center">
+                        <div className="h-[331px] w-full bg-[url('/d29.jpeg')] bg-cover bg-center">
 
                             <div className="flex items-center justify-start p-[30px]">
                                 <div className="text-[62px] md:text-[96px] lg:text-[126px]  leading-[0.9] [font-family:var(--font-expanded)] text-white">D5</div>
@@ -174,7 +174,7 @@ export default function Classesx(){
 
                      <div className="w-full border-box flex flex-col border-r border-[#575757]">
 
-                        <div className="h-[350px] md:h-[331px] w-full bg-[url('d28.avif')] bg-cover bg-center">
+                        <div className="h-[350px] md:h-[331px] w-full bg-[url('/d28.avif')] bg-cover bg-center">
 
                             <div className="flex items-center justify-start p-[30px]">
                                 <div className="text-[62px] md:text-[96px] lg:text-[126px]  leading-[0.9] [font-family:var(--font-expanded)] text-white">B2</div>
