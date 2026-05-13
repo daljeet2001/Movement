@@ -30,7 +30,7 @@ export default function Vision() {
 
             <div className="h-[640px] flex flex-col md:flex-row items-center w-full border-y border-[#575757] bg-white">
 
-                <div className="h-full w-full md:w-[50%] bg-[url('./d16.jpeg')] bg-cover bg-center relative">
+                <div className="h-full w-full md:w-[50%] bg-[url('/d16.jpeg')] bg-cover bg-center relative">
                     <div className="absolute top-[30px] left-[30px] text-white text-[62px] md:text-[96px] lg:text-[126px] font-semibold [font-family:var(--font-condensed)] leading-[0.9]">Vision</div>
                 </div>
 
@@ -57,7 +57,7 @@ export default function Vision() {
 
             <div className="h-[640px] flex flex-col md:flex-row items-center w-full border-b border-[#575757] bg-white">
 
-                <div className="h-full w-full md:w-[50%] bg-[url('./d5.jpeg')] bg-cover bg-center relative">
+                <div className="h-full w-full md:w-[50%] bg-[url('/d5.jpeg')] bg-cover bg-center relative">
                     <div className="absolute top-[30px] left-[30px] text-white text-[62px] md:text-[96px] lg:text-[126px]  font-semibold [font-family:var(--font-condensed)] leading-[0.9]">Classes</div>
                 </div>
 
