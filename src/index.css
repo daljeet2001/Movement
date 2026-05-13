@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-dm: "DM Sans", sans-serif;
+  --font-ibm: "IBM Plex Sans", sans-serif;
+  --font-condensed: "Encode Sans Condensed", sans-serif;
+  --font-semi: "Encode Sans Semi Condensed", sans-serif;
+  --font-expanded: "Encode Sans Expanded", sans-serif;
+
+
+
+ 
+  --breakpoint-md: 800px;
+  --breakpoint-lg: 1280px;
+}
