@@ -21,7 +21,7 @@ export default function Promise(){
 
                 </div>
 
-                <img className="h-[368.83px] md:h-[440px] object-cover  w-full" src={"./d16.jpeg"}/>
+                <img className="h-[368.83px] md:h-[440px] object-cover  w-full" src={"./d36.webp"}/>
 
             </div>
 

@@ -5,7 +5,7 @@ export default function Space(){
     return(
         <div className="flex flex-col md:flex-row items-start md:items-center w-full h-auto border-t border-[#575757]">
 
-           <img className="h-[287px] md:h-[319px] lg:h-[480px] w-full md:w-[50%] md:flex-1  object-cover" src="/d30.webp"/>
+           <img className="h-[287px] md:h-[319px] lg:h-[480px] w-full md:w-[50%] md:flex-1  object-cover" src="/d38.webp"/>
 
            <div className="flex items-center justify-center bg-black h-auto md:h-[319px] lg:h-[480px] w-full md:w-[50%] lg:w-[427px]" >
             
